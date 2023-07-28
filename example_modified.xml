@@ -1,0 +1,12 @@
+<bookstore>
+  <book>
+    <title>Python Programming</title>
+    <author>John Smith</author>
+    <price>28.99</price>
+  </book>
+  <book>
+    <title>Data Science Basics</title>
+    <author>Jane Doe</author>
+    <price>19.95</price>
+  <read>Yes</read></book>
+</bookstore>
